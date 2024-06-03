@@ -1,0 +1,12 @@
+UserID: 1337656319 | Time: 2024-06-02 21:20:43.190517 | Command: /bgmi | Target: 52.140.2.177 | Port: 25259 | Time: 300
+Username: @TAM_YT
+Target: 52.140.2.177
+Port: 25259
+Time: 300
+
+UserID: 1337656319 | Time: 2024-06-02 21:20:49.115507 | Command: /bgmi | Target: 52.140.2.177 | Port: 25259 | Time: 300
+Username: @TAM_YT
+Target: 52.140.2.177
+Port: 25259
+Time: 300
+
